@@ -15,7 +15,7 @@ Este é o backend do projeto NLW Pocket, desenvolvido durante o evento Next Leve
 1. Clone o repositório:
 
    ```bash
-    git clone <https://github.com/ericrocha97/nlw-pocket-server.git>
+    git clone https://github.com/ericrocha97/nlw-pocket-server.git
     cd nlw-pocket-server
     ```
 
